@@ -1,0 +1,15 @@
+[package]
+name = "aux-typ"
+version = "0.1.0"
+entrypoint = "src/lib.typ"
+authors = ["Karsten Pedersen <https://github.com/karstenpedersen>"]
+description = "Utility package."
+homepage = "https://github.com/karstenpedersen/aux-typ"
+repository = "https://github.com/karstenpedersen/aux-typ"
+keywords = [""]
+categories = [
+    "components",
+    "visualization",
+    "layout",
+    "utility",
+]
